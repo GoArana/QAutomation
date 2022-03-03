@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7BGyj86DMi1ngXhDZ4m5eb7Ch6792CnasXNhMeMn5AAwR4IZiksHxKVR3ftATgnvlmiMkatkwlUZbpJoN8UQCA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\gonza\\OneDrive\\Escritorio\\QAutomation\\demo\\demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gonza\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\gonza\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\gonza\\.nuget\\packages\\webdriver.chromedriver\\26.14.313457.1\\webdriver.chromedriver.26.14.313457.1.nupkg.sha512"
+  ],
+  "logs": []
+}
