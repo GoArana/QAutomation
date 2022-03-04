@@ -1,0 +1,5 @@
+C:\Users\gonza\OneDrive\Escritorio\QAutomation\demo\obj\Debug\net6.0\demo.csproj.AssemblyReference.cache
+C:\Users\gonza\OneDrive\Escritorio\QAutomation\demo\obj\Debug\net6.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\OneDrive\Escritorio\QAutomation\demo\obj\Debug\net6.0\demo.AssemblyInfoInputs.cache
+C:\Users\gonza\OneDrive\Escritorio\QAutomation\demo\obj\Debug\net6.0\demo.AssemblyInfo.cs
+C:\Users\gonza\OneDrive\Escritorio\QAutomation\demo\obj\Debug\net6.0\demo.csproj.CoreCompileInputs.cache
